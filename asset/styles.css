@@ -113,7 +113,21 @@
     width: 250px;
 }
 
+/* Extra section starts */
+.extra-section {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 86px;
+    padding-bottom: 86px;
+    margin-bottom: 128px;
+}
 
+.extra-box h5 {
+    margin-top: 24px;
+}
 
 /* hot deals section starts */
 .hot-deals-section {
