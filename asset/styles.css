@@ -80,6 +80,73 @@
     height: 420px;
 }
 
+
+
+/* Middle Section starts */
+.middle-section {
+    margin-top: 128px;
+    text-align: center;
+}
+
+.middle-section h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.middle-section p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 594px;
+    margin: auto;
+}
+
+/* Four images section starts */
+.four-images-section {
+    padding: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+/* Subscription section starts */
+.subscription-section {
+    text-align: center;
+    margin: auto;
+    background-image: url('../Flower-Asset/Rectangle9.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 121px;
+    margin-bottom: 128px;
+    width: 65%;
+}
+
+.subscription-section h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.subscription-section p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.subscription-section input[type="text"] {
+    width: 700px;
+    height: 60px;
+    padding-left: 22px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 16px;
+
+}
+
 /* Footer section starts */
 .footer-section {
     background: #111010;
