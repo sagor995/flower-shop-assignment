@@ -36,8 +36,43 @@
     color: white;
 }
 
+.primary {
+    color: #E55473;
+}
+
 .header-img {
-    margin-top: 50px;
+    margin-rgb(58, 56, 56)50px;
     height: 800px;
 
+}
+
+
+/* Footer section starts */
+.footer-section {
+    background: #111010;
+    text-align: center;
+    padding: 128px 231px;
+}
+
+.footer-section h3 {
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 24px;
+}
+
+.footer-section p {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 625px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+.copyright-message {
+
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
